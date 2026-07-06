@@ -10,7 +10,7 @@ Veridi Logistics needed to assess whether negative customer reviews were linked 
 
 - **Link to Notebook:** https://drive.google.com/file/d/1ffVcAG2o0_CD-Z_U__z7-wmGpKiBqBNK/view?usp=sharing
 - **Link to Dashboard:** https://amalitech-logistics-hwwt9zpcppbw45ea3dbt7s.streamlit.app/
-- **Link to Presentation:** https://drive.google.com/file/d/1aovfA1Ml5AoolwGj0Tf02YGotnIxq4eQ/view?usp=sharing
+- **Link to Presentation:** https://drive.google.com/file/d/1GPY4rUQjXCI78KBxT3jIiKYLFz6PNSVJ/view?usp=sharing
 
 ## C. Technical Explanation
 
