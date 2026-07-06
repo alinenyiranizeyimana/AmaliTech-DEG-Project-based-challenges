@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-Veridi Logistics needed to assess whether negative customer reviews were linked to late deliveries and inaccurate delivery promises. Using the Olist Brazilian E-Commerce dataset, the project merged order, customer, review, and location data, cleaned missing and duplicate records, and classified deliveries as On Time, Late, or Super Late. The analysis found that most orders arrived on time, while  8.11% were late. Late deliveries were concentrated in states such as **AL** and **MA**, showing that the issue was regional rather than countrywide. Super late deliveries received the lowest review scores, confirming that delivery delays reduced customer satisfaction.
+Veridi Logistics needed to assess whether negative customer reviews were linked to late deliveries and inaccurate delivery promises. Using the Olist Brazilian E-Commerce dataset, this project joined order, customer, and review data, handled missing delivery dates and duplicate review records, and classified delivered orders as On Time, Late, or Super Late. The analysis found that most orders arrived on time, while 8.11% were late. Late deliveries were concentrated in states such as AL and MA, showing that the issue was regional rather than nationwide. Super Late deliveries received the lowest review scores, confirming that delivery delays reduced customer satisfaction.
 
 ## B. Project Links
 
